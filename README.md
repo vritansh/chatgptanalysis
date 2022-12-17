@@ -1,11 +1,9 @@
-# chatgptanalysis
 <h1> ChatGPT analysis on twitter dataset </h1> 
 
-Data sources 
+<h2> Data sources </h2> 
 <h3> Twitter </h3> 
 
 <h3> Approach </h3> 
-
 
 <li> 1. Collect data from twitter using hashtags #chatgpt </li> 
 <li> 2. Analyze the data on columns - Number of Followers, Following, Text </li> 
