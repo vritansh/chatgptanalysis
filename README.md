@@ -1,4 +1,4 @@
-<h1> ChatGPT analysis on twitter dataset </h1> 
+<h1> Analysis users reaction towards chatGPT for over time ( This is an ongoing project )  </h1> 
 
 <h2> Data sources </h2> 
 <h3> Twitter </h3> 
@@ -11,4 +11,6 @@
 <li> 4. Preprocess the data </li> 
 <li> 5. Setup scripts for analyzing </li> 
 
-Analysing sentiments of users using chatGPT from the last 2 months data. It is an ongoing project and it would include a lot of information. 
+Analysing sentiments of users using chatGPT every 7 days. 
+
+
